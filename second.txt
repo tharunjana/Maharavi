@@ -1,1 +1,2 @@
 This is second file 
+this is second line in second.txt
